@@ -30,24 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,7 +40,7 @@
               "RelativeDocumentMoniker": "Sample02-ReflectDI\\Sample0202-ReflectDemo\\Program.cs",
               "ToolTip": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202-ReflectDemo\\Program.cs",
               "RelativeToolTip": "Sample02-ReflectDI\\Sample0202-ReflectDemo\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAywGAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowFAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-22T09:21:42.323Z",
               "EditorCaption": ""
@@ -71,8 +55,7 @@
               "RelativeToolTip": "Sample02-ReflectDI\\Sample0202-ReflectDemo\\Sheep.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T07:55:30.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T07:55:30.475Z"
             },
             {
               "$type": "Document",
@@ -84,8 +67,7 @@
               "RelativeToolTip": "Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\UnFinishedAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T07:55:20.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T07:55:20.405Z"
             },
             {
               "$type": "Document",
@@ -97,8 +79,7 @@
               "RelativeToolTip": "Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IPlugin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T07:54:36.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T07:54:36.329Z"
             },
             {
               "$type": "Document",
@@ -110,8 +91,7 @@
               "RelativeToolTip": "Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IAnimal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T07:53:44.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T07:53:44.54Z"
             }
           ]
         }
