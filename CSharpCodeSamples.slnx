@@ -10,6 +10,9 @@
   <Folder Name="/03-BigIntIdGenerator/">
     <Project Path="03-SnowflakeIdGenerator/Sample0301.SnowflakeIdGenerator/Sample0301.SnowflakeIdGenerator.csproj" Id="8d57a344-ddad-4e1c-b694-32f4e7824316" />
   </Folder>
+  <Folder Name="/04-DB/">
+    <Project Path="04-DB/Sample0401.DBHelper/Sample0401.DBHelper.csproj" Id="541490f3-4739-4041-ab61-9917178c3055" />
+  </Folder>
   <Folder Name="/SampleTests/">
     <Project Path="SampleTests/SampleTests.csproj" Id="3ecbe819-8a11-4a59-90ea-ebce0d97975c" />
   </Folder>
