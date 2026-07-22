@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyCodes\\CSharpSamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811CE502-5DCB-48FB-8C42-0D245F040CD4}|Sample02-ReflectDI\\Sample0202-ReflectDemo\\Sample0202-ReflectDemo.csproj|d:\\mycodes\\csharpsamples\\sample02-reflectdi\\sample0202-reflectdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CE502-5DCB-48FB-8C42-0D245F040CD4}|Sample02-ReflectDI\\Sample0202-ReflectDemo\\Sample0202-ReflectDemo.csproj|solutionrelative:sample02-reflectdi\\sample0202-reflectdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01164EF4-638D-43ED-AEAB-12952BE5F848}|Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\Sample0202.ReflectDemo.SDK.csproj|d:\\mycodes\\csharpsamples\\sample02-reflectdi\\sample0202.reflectdemo.sdk\\iplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01164EF4-638D-43ED-AEAB-12952BE5F848}|Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\Sample0202.ReflectDemo.SDK.csproj|solutionrelative:sample02-reflectdi\\sample0202.reflectdemo.sdk\\iplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01164EF4-638D-43ED-AEAB-12952BE5F848}|Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\Sample0202.ReflectDemo.SDK.csproj|d:\\mycodes\\csharpsamples\\sample02-reflectdi\\sample0202.reflectdemo.sdk\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01164EF4-638D-43ED-AEAB-12952BE5F848}|Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\Sample0202.ReflectDemo.SDK.csproj|solutionrelative:sample02-reflectdi\\sample0202.reflectdemo.sdk\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811CE502-5DCB-48FB-8C42-0D245F040CD4}|Sample02-ReflectDI\\Sample0202-ReflectDemo\\Sample0202-ReflectDemo.csproj|d:\\mycodes\\csharpsamples\\sample02-reflectdi\\sample0202-reflectdemo\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CE502-5DCB-48FB-8C42-0D245F040CD4}|Sample02-ReflectDI\\Sample0202-ReflectDemo\\Sample0202-ReflectDemo.csproj|solutionrelative:sample02-reflectdi\\sample0202-reflectdemo\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01164EF4-638D-43ED-AEAB-12952BE5F848}|Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\Sample0202.ReflectDemo.SDK.csproj|d:\\mycodes\\csharpsamples\\sample02-reflectdi\\sample0202.reflectdemo.sdk\\unfinishedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01164EF4-638D-43ED-AEAB-12952BE5F848}|Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\Sample0202.ReflectDemo.SDK.csproj|solutionrelative:sample02-reflectdi\\sample0202.reflectdemo.sdk\\unfinishedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202-ReflectDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Sample02-ReflectDI\\Sample0202-ReflectDemo\\Program.cs",
+              "ToolTip": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202-ReflectDemo\\Program.cs",
+              "RelativeToolTip": "Sample02-ReflectDI\\Sample0202-ReflectDemo\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAywGAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T09:21:42.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sheep.cs",
+              "DocumentMoniker": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202-ReflectDemo\\Sheep.cs",
+              "RelativeDocumentMoniker": "Sample02-ReflectDI\\Sample0202-ReflectDemo\\Sheep.cs",
+              "ToolTip": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202-ReflectDemo\\Sheep.cs",
+              "RelativeToolTip": "Sample02-ReflectDI\\Sample0202-ReflectDemo\\Sheep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T07:55:30.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnFinishedAttribute.cs",
+              "DocumentMoniker": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\UnFinishedAttribute.cs",
+              "RelativeDocumentMoniker": "Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\UnFinishedAttribute.cs",
+              "ToolTip": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\UnFinishedAttribute.cs",
+              "RelativeToolTip": "Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\UnFinishedAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T07:55:20.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlugin.cs",
+              "DocumentMoniker": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IPlugin.cs",
+              "RelativeDocumentMoniker": "Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IPlugin.cs",
+              "ToolTip": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IPlugin.cs",
+              "RelativeToolTip": "Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T07:54:36.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IAnimal.cs",
+              "RelativeDocumentMoniker": "Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IAnimal.cs",
+              "ToolTip": "D:\\MyCodes\\CSharpSamples\\Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IAnimal.cs",
+              "RelativeToolTip": "Sample02-ReflectDI\\Sample0202.ReflectDemo.SDK\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T07:53:44.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

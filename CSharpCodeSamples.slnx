@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/01-Set/">
+    <Project Path="Sample01-Set/Sample0101-EnumerableSet/Sample0101.csproj" Id="1bbccb7b-0961-4906-9660-ddf45ec8ddaa" />
+  </Folder>
+  <Folder Name="/02-ReflectDI/">
+    <Project Path="Sample02-ReflectDI/Sample0201-DI/Sample0201.csproj" />
+    <Project Path="Sample02-ReflectDI/Sample0202-ReflectDemo/Sample0202-ReflectDemo.csproj" Id="811ce502-5dcb-48fb-8c42-0d245f040cd4" />
+    <Project Path="Sample02-ReflectDI/Sample0202.ReflectDemo.SDK/Sample0202.ReflectDemo.SDK.csproj" Id="01164ef4-638d-43ed-aeab-12952be5f848" />
+  </Folder>
+  <Folder Name="/SampleTests/">
+    <Project Path="SampleTests/SampleTests.csproj" Id="3ecbe819-8a11-4a59-90ea-ebce0d97975c" />
+  </Folder>
+  <Project Path="Models/Models.csproj" Id="aff6e64c-b1df-484f-b804-90bdb3af2957" />
+</Solution>
