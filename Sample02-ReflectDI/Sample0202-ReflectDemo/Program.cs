@@ -62,15 +62,20 @@ namespace Sample0202_ReflectDemo
         {
             NoticeUnload(AnimalCollection);
             AnimalCollection.Clear();
-            //AnimalCollection.Add(new Sheep());
-            string sdkPath = Path.Combine(Environment.CurrentDirectory, "Addons");
+            
             var dllFiles = new List<string>();
             var currentFiles = Directory.GetFiles(Environment.CurrentDirectory, "*.dll");
             if (null!=currentFiles && currentFiles.Length>0)
                 dllFiles.AddRange(currentFiles);
-            var addonsFiles = Directory.GetFiles(sdkPath,"*.dll");
-            if (null != addonsFiles && addonsFiles.Length!=0)
-                dllFiles.AddRange(addonsFiles);
+
+            string addonPath = Path.Combine(Environment.CurrentDirectory, "Addons");
+            if (Directory.Exists(addonPath))
+            {
+                var addonsFiles = Directory.GetFiles(addonPath, "*.dll");
+                if (null != addonsFiles && addonsFiles.Length != 0)
+                    dllFiles.AddRange(addonsFiles);
+            }
+            
             if (dllFiles.Count == 0)
                 return;
             foreach (var item in dllFiles)
