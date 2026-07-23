@@ -1,11 +1,11 @@
 <Solution>
   <Folder Name="/01-Set/">
-    <Project Path="Sample01-Set/Sample0101-EnumerableSet/Sample0101.csproj" Id="1bbccb7b-0961-4906-9660-ddf45ec8ddaa" />
+    <Project Path="01-Set/Sample0101-EnumerableSet/Sample0101.csproj" Id="1bbccb7b-0961-4906-9660-ddf45ec8ddaa" />
   </Folder>
   <Folder Name="/02-ReflectDI/">
-    <Project Path="Sample02-ReflectDI/Sample0201-DI/Sample0201.csproj" />
-    <Project Path="Sample02-ReflectDI/Sample0202-ReflectDemo/Sample0202-ReflectDemo.csproj" Id="811ce502-5dcb-48fb-8c42-0d245f040cd4" />
-    <Project Path="Sample02-ReflectDI/Sample0202.ReflectDemo.SDK/Sample0202.ReflectDemo.SDK.csproj" Id="01164ef4-638d-43ed-aeab-12952be5f848" />
+    <Project Path="02-ReflectDI/Sample0201-DI/Sample0201.csproj" />
+    <Project Path="02-ReflectDI/Sample0202-ReflectDemo/Sample0202-ReflectDemo.csproj" Id="811ce502-5dcb-48fb-8c42-0d245f040cd4" />
+    <Project Path="02-ReflectDI/Sample0202.ReflectDemo.SDK/Sample0202.ReflectDemo.SDK.csproj" Id="01164ef4-638d-43ed-aeab-12952be5f848" />
   </Folder>
   <Folder Name="/03-BigIntIdGenerator/">
     <Project Path="03-SnowflakeIdGenerator/Sample0301.SnowflakeIdGenerator/Sample0301.SnowflakeIdGenerator.csproj" Id="8d57a344-ddad-4e1c-b694-32f4e7824316" />
